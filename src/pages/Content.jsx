@@ -12,7 +12,7 @@ function Content() {
             src="images/Frame11.png"
           ></img>
           <img
-            className=" hidden sm:block max-w-[856px] sm:absolute sm:left-[16%] py-[60px]  "
+            className=" hidden sm:block max-w-[856px] sm:absolute sm:left-[16%] py-[60px]   "
             src="images/Rectangle1.png"
           ></img>
           <div className="p-4 flex flex-col max-w-[351px] absolute bottom-12  text-white  sm:max-w-[636px]  sm:-translate-y-1/2 sm:top-1/2 sm:left-[65%] sm:bottom-auto">
