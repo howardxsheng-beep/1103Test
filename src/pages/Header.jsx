@@ -10,10 +10,10 @@ function Header(){
             </div>
             
             <div className="hidden sm:flex sm:justify-self-center sm:gap-8 md:gap-12 ">
-                <button>首頁</button>
-                <button>最新消息</button>
-                <button>商品列表</button>
-                <button>關於我們    </button>
+                <button className="cursor-pointer">首頁</button>
+                <button className="cursor-pointer">最新消息</button>
+                <button className="cursor-pointer">商品列表</button>
+                <button className="cursor-pointer">關於我們    </button>
             </div>
             
             <div className="flex gap-3 mr-3">

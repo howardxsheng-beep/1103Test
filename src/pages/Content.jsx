@@ -123,9 +123,9 @@ function Content() {
 
       <section className="w-full bg-[#404040] px-3  ">
 
-        <div className="max-w-[1296px] sm:flex sm:gap-6 sm:mx-auto sm:flex-row-reverse ">
+        <div className="max-w-[1296px] sm:flex sm:gap-6 sm:mx-auto sm:flex-row ">
 
-        <div className="flex flex-col text-white pt-[60px] ">
+        <div className="flex flex-col text-white pt-[60px] sm:order-2 sm:justify-center ">
           <p className="text-center text-[32px] font-medium">
             訂製專屬於您的完美耳機
           </p>
@@ -177,8 +177,8 @@ function Content() {
         </label>
         </div>
 
-        <div className="grid grid-cols-2 w-full gap-6 mt-6 pb-[60px] sm:max-w-[636px] sm:mb-[65px] sm:items-center ">
-          <div className=" mt-12">
+        <div className="grid grid-cols-2 w-full gap-6 mt-6 pb-[60px] sm:max-w-[636px] sm:mb-[65px] sm:items-center sm:order-1  ">
+          <div className=" mt-12 sm:mt-12">
             <div className=" flex-col-1  overflow-hidden  mb-4">
               <img
                 className="aspect-square object-cover"
@@ -192,7 +192,7 @@ function Content() {
               ></img>
             </div>
           </div>
-          <div className="max-h-100 mb-12">
+          <div className="max-h-100 mb-12 sm:mt-12">
             <div className=" flex-col-1  overflow-hidden  mb-4">
               <img
                 className="aspect-square object-cover"
