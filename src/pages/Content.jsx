@@ -63,7 +63,7 @@ function Content() {
       </section>
 
       <section className="p-5 flex flex-col w-full bg-[url('/images/Frame46.png')] bg-cover bg-center   bg-no-repeat sm:bg-none sm:bg-black ">
-        <div className="  text-white place-content-center text-[32px] tracking-wide font-medium mb-12">
+        <div className="  text-white place-content-center text-[32px] tracking-wide font-medium mb-12 sm:mx-auto">
           <p>多色選擇，專屬你的與眾不同</p>
           <p className="text-base font-normal">
             我的風格我主張，獨創品牌限定色，除了耀眼更要獨一無二
