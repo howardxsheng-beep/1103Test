@@ -20,10 +20,10 @@ function Footer() {
 
         </div>
 
-                    <div className="hidden sm:flex flex-col w-[100px] h-px bg-white mx-auto mb-12"></div>
+             <div className="hidden sm:flex flex-col w-[100px] h-px bg-white mx-auto mb-12"></div>
 
 
-        <div className="text-white mb-[60px] ml-3 w-full sm:flex sm:justify-between sm:mb-[60px]">
+        <div className="text-white max-w-[1296px] w-full mb-[60px] px-3 sm:px-0  sm:flex sm:justify-between sm:mb-[60px]">
           <div className="flex gap-6 mb-10 ">
             <a>最新商品</a>
             <a>多色選擇</a>
