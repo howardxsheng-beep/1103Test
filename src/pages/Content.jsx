@@ -26,7 +26,7 @@ function Content() {
         </div>
       </section>
 
-      <section className=" flex flex-col w-full bg-[url('/images/Frame46.png')] bg-cover bg-center  bg-no-repeat sm:bg-none sm:bg-[#2B2B2B] ">
+      <section className=" flex flex-col w-full bg-linear-[#000000,#404040,#191919] bg-cover bg-center  bg-no-repeat sm:bg-none sm:bg-[#2B2B2B] ">
         <div className="text-center h-[156px] text-white place-content-center text-[32px] font-medium">
           最新商品
         </div>
