@@ -7,7 +7,7 @@ import Footer from './pages/Footer'
 function App() {
   return (
     <>
-      <Header/>
+      {/* <Header/> */}
       <Footer/>
     </>
   )
