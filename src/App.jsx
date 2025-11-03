@@ -1,6 +1,7 @@
 import './App.css'
 import Header from './pages/Header'
 import Footer from './pages/Footer'
+import Content from './pages/Content'
 
 
 
@@ -8,7 +9,7 @@ function App() {
   return (
     <>
       <Header/>
-      <Footer/>
+      {/* <Footer/> */}
       <Content/>
       
     </>
